@@ -1,2 +1,2 @@
 # Pokémon Data
-Collected information for encounters and trainers across most Pokémon games. (Gold, Silver, Crystal, & Red, Blue, Yellow excluded)
+Information about trainers and wild encounters across most Pokémon games. (Gold, Silver, Crystal, & Red, Blue, Yellow excluded)
