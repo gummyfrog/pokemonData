@@ -1,0 +1,2571 @@
+{
+  "Bulbasaur" : {
+    "Sp. Atk" : 1
+  },
+  "Ivysaur" : {
+    "Sp. Atk" : 1,
+    "Sp. Def" : 1
+  },
+  "Venusaur" : {
+    "Sp. Atk" : 2,
+    "Sp. Def" : 1
+  },
+  "Charmander" : {
+    "Speed" : 1
+  },
+  "Charmeleon" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Charizard" : {
+    "Sp. Atk" : 3
+  },
+  "Squirtle" : {
+    "Def" : 1
+  },
+  "Wartortle" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Blastoise" : {
+    "Sp. Def" : 3
+  },
+  "Caterpie" : {
+    "HP" : 1
+  },
+  "Metapod" : {
+    "Def" : 2
+  },
+  "Butterfree" : {
+    "Sp. Atk" : 2,
+    "Sp. Def" : 1
+  },
+  "Weedle" : {
+    "Speed" : 1
+  },
+  "Kakuna" : {
+    "Def" : 2
+  },
+  "Beedrill" : {
+    "Atk" : 2,
+    "Sp. Def" : 1
+  },
+  "Pidgey" : {
+    "Speed" : 1
+  },
+  "Pidgeotto" : {
+    "Speed" : 2
+  },
+  "Pidgeot" : {
+    "Speed" : 3
+  },
+  "Rattata" : {
+    "Speed" : 1
+  },
+  "Raticate" : {
+    "Speed" : 2
+  },
+  "Spearow" : {
+    "Speed" : 1
+  },
+  "Fearow" : {
+    "Speed" : 2
+  },
+  "Ekans" : {
+    "Atk" : 1
+  },
+  "Arbok" : {
+    "Atk" : 2
+  },
+  "Pikachu" : {
+    "Speed" : 2
+  },
+  "Raichu" : {
+    "Speed" : 3
+  },
+  "Sandshrew" : {
+    "Def" : 1
+  },
+  "Sandslash" : {
+    "Def" : 2
+  },
+  "Nidoran" : {
+    "HP" : 1
+  },
+  "Nidoran%E2%99%80" : {
+    "HP" : 1
+  },
+  "Nidoran♀" : {
+    "HP" : 1
+  },
+  "Nidorina" : {
+    "HP" : 2
+  },
+  "Nidoqueen" : {
+    "HP" : 3
+  },
+  "Nidoran%E2%99%82" : {
+    "Atk" : 1
+  },
+  "Nidoran♂" : {
+    "Atk" : 1
+  },
+  "Nidorino" : {
+    "Atk" : 2
+  },
+  "Nidoking" : {
+    "Atk" : 3
+  },
+  "Clefairy" : {
+    "HP" : 2
+  },
+  "Clefable" : {
+    "HP" : 3
+  },
+  "Vulpix" : {
+    "Speed" : 1
+  },
+  "Ninetales" : {
+    "Sp. Def" : 1,
+    "Speed" : 1
+  },
+  "Jigglypuff" : {
+    "HP" : 2
+  },
+  "Wigglytuff" : {
+    "HP" : 3
+  },
+  "Zubat" : {
+    "Speed" : 1
+  },
+  "Golbat" : {
+    "Speed" : 2
+  },
+  "Oddish" : {
+    "Sp. Atk" : 1
+  },
+  "Gloom" : {
+    "Sp. Atk" : 2
+  },
+  "Vileplume" : {
+    "Sp. Atk" : 3
+  },
+  "Paras" : {
+    "Atk" : 1
+  },
+  "Parasect" : {
+    "Atk" : 2,
+    "Def" : 1
+  },
+  "Venonat" : {
+    "Sp. Def" : 1
+  },
+  "Venomoth" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Diglett" : {
+    "Speed" : 1
+  },
+  "Dugtrio" : {
+    "Speed" : 2
+  },
+  "Meowth" : {
+    "Speed" : 1
+  },
+  "Persian" : {
+    "Speed" : 2
+  },
+  "Psyduck" : {
+    "Sp. Atk" : 1
+  },
+  "Golduck" : {
+    "Sp. Atk" : 2
+  },
+  "Mankey" : {
+    "Atk" : 1
+  },
+  "Primeape" : {
+    "Atk" : 2
+  },
+  "Growlithe" : {
+    "Atk" : 1
+  },
+  "Arcanine" : {
+    "Atk" : 2
+  },
+  "Poliwag" : {
+    "Speed" : 1
+  },
+  "Poliwhirl" : {
+    "Speed" : 2
+  },
+  "Poliwrath" : {
+    "Def" : 3
+  },
+  "Abra" : {
+    "Sp. Atk" : 1
+  },
+  "Kadabra" : {
+    "Sp. Atk" : 2
+  },
+  "Alakazam" : {
+    "Sp. Atk" : 3
+  },
+  "Machop" : {
+    "Atk" : 1
+  },
+  "Machoke" : {
+    "Atk" : 2
+  },
+  "Machamp" : {
+    "Atk" : 3
+  },
+  "Bellsprout" : {
+    "Atk" : 1
+  },
+  "Weepinbell" : {
+    "Atk" : 2
+  },
+  "Victreebel" : {
+    "Atk" : 3
+  },
+  "Tentacool" : {
+    "Sp. Def" : 1
+  },
+  "Tentacruel" : {
+    "Sp. Def" : 2
+  },
+  "Geodude" : {
+    "Def" : 1
+  },
+  "Graveler" : {
+    "Def" : 2
+  },
+  "Golem" : {
+    "Def" : 3
+  },
+  "Ponyta" : {
+    "Speed" : 1
+  },
+  "Rapidash" : {
+    "Speed" : 2
+  },
+  "Slowpoke" : {
+    "HP" : 1
+  },
+  "Slowbro" : {
+    "Def" : 2
+  },
+  "Magnemite" : {
+    "Sp. Atk" : 1
+  },
+  "Magneton" : {
+    "Sp. Atk" : 2
+  },
+  "Farfetch'd" : {
+    "Atk" : 1
+  },
+  "Farfetch%27d" : {
+    "Atk" : 1
+  },
+  "Doduo" : {
+    "Atk" : 1
+  },
+  "Dodrio" : {
+    "Atk" : 2
+  },
+  "Seel" : {
+    "Sp. Def" : 1
+  },
+  "Dewgong" : {
+    "Sp. Def" : 2
+  },
+  "Grimer" : {
+    "HP" : 1
+  },
+  "Muk" : {
+    "HP" : 1,
+    "Atk" : 1
+  },
+  "Shellder" : {
+    "Def" : 1
+  },
+  "Cloyster" : {
+    "Def" : 2
+  },
+  "Gastly" : {
+    "Sp. Atk" : 1
+  },
+  "Haunter" : {
+    "Sp. Atk" : 2
+  },
+  "Gengar" : {
+    "Sp. Atk" : 3
+  },
+  "Onix" : {
+    "Def" : 1
+  },
+  "Drowzee" : {
+    "Sp. Def" : 1
+  },
+  "Hypno" : {
+    "Sp. Def" : 2
+  },
+  "Krabby" : {
+    "Atk" : 1
+  },
+  "Kingler" : {
+    "Atk" : 2
+  },
+  "Voltorb" : {
+    "Speed" : 1
+  },
+  "Electrode" : {
+    "Speed" : 2
+  },
+  "Exeggcute" : {
+    "Def" : 1
+  },
+  "Exeggutor" : {
+    "Sp. Atk" : 2
+  },
+  "Cubone" : {
+    "Def" : 1
+  },
+  "Marowak" : {
+    "Def" : 2
+  },
+  "Hitmonlee" : {
+    "Atk" : 2
+  },
+  "Hitmonchan" : {
+    "Sp. Def" : 2
+  },
+  "Lickitung" : {
+    "HP" : 2
+  },
+  "Koffing" : {
+    "Def" : 1
+  },
+  "Weezing" : {
+    "Def" : 2
+  },
+  "Rhyhorn" : {
+    "Def" : 1
+  },
+  "Rhydon" : {
+    "Atk" : 2
+  },
+  "Chansey" : {
+    "HP" : 2
+  },
+  "Tangela" : {
+    "Def" : 1
+  },
+  "Kangaskhan" : {
+    "HP" : 2
+  },
+  "Horsea" : {
+    "Sp. Atk" : 1
+  },
+  "Seadra" : {
+    "Def" : 1,
+    "Sp. Atk" : 1
+  },
+  "Goldeen" : {
+    "Atk" : 1
+  },
+  "Seaking" : {
+    "Atk" : 2
+  },
+  "Staryu" : {
+    "Speed" : 1
+  },
+  "Starmie" : {
+    "Speed" : 2
+  },
+  "Mr.-Mime" : {
+    "Sp. Def" : 2
+  },
+  "Scyther" : {
+    "Atk" : 1
+  },
+  "Jynx" : {
+    "Sp. Atk" : 2
+  },
+  "Electabuzz" : {
+    "Speed" : 2
+  },
+  "Magmar" : {
+    "Sp. Atk" : 2
+  },
+  "Pinsir" : {
+    "Atk" : 2
+  },
+  "Tauros" : {
+    "Atk" : 1,
+    "Speed" : 1
+  },
+  "Magikarp" : {
+    "Speed" : 1
+  },
+  "Gyarados" : {
+    "Atk" : 2
+  },
+  "Lapras" : {
+    "HP" : 2
+  },
+  "Ditto" : {
+    "HP" : 1
+  },
+  "Eevee" : {
+    "Sp. Def" : 1
+  },
+  "Vaporeon" : {
+    "HP" : 2
+  },
+  "Jolteon" : {
+    "Speed" : 2
+  },
+  "Flareon" : {
+    "Atk" : 2
+  },
+  "Porygon" : {
+    "Sp. Atk" : 1
+  },
+  "Omanyte" : {
+    "Def" : 1
+  },
+  "Omastar" : {
+    "Def" : 2
+  },
+  "Kabuto" : {
+    "Def" : 1
+  },
+  "Kabutops" : {
+    "Atk" : 2
+  },
+  "Aerodactyl" : {
+    "Speed" : 2
+  },
+  "Snorlax" : {
+    "HP" : 2
+  },
+  "Articuno" : {
+    "Sp. Def" : 3
+  },
+  "Zapdos" : {
+    "Sp. Atk" : 3
+  },
+  "Moltres" : {
+    "Sp. Atk" : 3
+  },
+  "Dratini" : {
+    "Atk" : 1
+  },
+  "Dragonair" : {
+    "Atk" : 2
+  },
+  "Dragonite" : {
+    "Atk" : 3
+  },
+  "Mewtwo" : {
+    "Sp. Atk" : 3
+  },
+  "Mew" : {
+    "HP" : 3
+  },
+  "Chikorita" : {
+    "Sp. Def" : 1
+  },
+  "Bayleef" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Meganium" : {
+    "Def" : 1,
+    "Sp. Def" : 2
+  },
+  "Cyndaquil" : {
+    "Speed" : 1
+  },
+  "Quilava" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Typhlosion" : {
+    "Sp. Atk" : 3
+  },
+  "Totodile" : {
+    "Atk" : 1
+  },
+  "Croconaw" : {
+    "Atk" : 1,
+    "Def" : 1
+  },
+  "Feraligatr" : {
+    "Atk" : 2,
+    "Def" : 1
+  },
+  "Sentret" : {
+    "Atk" : 1
+  },
+  "Furret" : {
+    "Speed" : 2
+  },
+  "Hoothoot" : {
+    "HP" : 1
+  },
+  "Noctowl" : {
+    "HP" : 2
+  },
+  "Ledyba" : {
+    "Sp. Def" : 1
+  },
+  "Ledian" : {
+    "Sp. Def" : 2
+  },
+  "Spinarak" : {
+    "Atk" : 1
+  },
+  "Ariados" : {
+    "Atk" : 2
+  },
+  "Crobat" : {
+    "Speed" : 3
+  },
+  "Chinchou" : {
+    "HP" : 1
+  },
+  "Lanturn" : {
+    "HP" : 2
+  },
+  "Pichu" : {
+    "Speed" : 1
+  },
+  "Cleffa" : {
+    "Sp. Def" : 1
+  },
+  "Igglybuff" : {
+    "HP" : 1
+  },
+  "Togepi" : {
+    "Sp. Def" : 1
+  },
+  "Togetic" : {
+    "Sp. Def" : 2
+  },
+  "Natu" : {
+    "Sp. Atk" : 1
+  },
+  "Xatu" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Mareep" : {
+    "Sp. Atk" : 1
+  },
+  "Flaaffy" : {
+    "Sp. Atk" : 2
+  },
+  "Ampharos" : {
+    "Sp. Atk" : 3
+  },
+  "Bellossom" : {
+    "Sp. Def" : 3
+  },
+  "Marill" : {
+    "HP" : 2
+  },
+  "Azumarill" : {
+    "HP" : 3
+  },
+  "Sudowoodo" : {
+    "Def" : 2
+  },
+  "Politoed" : {
+    "Sp. Def" : 3
+  },
+  "Hoppip" : {
+    "Sp. Def" : 1
+  },
+  "Skiploom" : {
+    "Speed" : 2
+  },
+  "Jumpluff" : {
+    "Speed" : 3
+  },
+  "Aipom" : {
+    "Speed" : 1
+  },
+  "Sunkern" : {
+    "Sp. Atk" : 1
+  },
+  "Sunflora" : {
+    "Sp. Atk" : 2
+  },
+  "Yanma" : {
+    "Speed" : 1
+  },
+  "Wooper" : {
+    "HP" : 1
+  },
+  "Quagsire" : {
+    "HP" : 2
+  },
+  "Espeon" : {
+    "Sp. Atk" : 2
+  },
+  "Umbreon" : {
+    "Sp. Def" : 2
+  },
+  "Murkrow" : {
+    "Speed" : 1
+  },
+  "Slowking" : {
+    "Sp. Def" : 3
+  },
+  "Misdreavus" : {
+    "Sp. Def" : 1
+  },
+  "Unown" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Wobbuffet" : {
+    "HP" : 2
+  },
+  "Girafarig" : {
+    "Sp. Atk" : 2
+  },
+  "Pineco" : {
+    "Def" : 1
+  },
+  "Forretress" : {
+    "Def" : 2
+  },
+  "Dunsparce" : {
+    "HP" : 1
+  },
+  "Gligar" : {
+    "Def" : 1
+  },
+  "Steelix" : {
+    "Def" : 2
+  },
+  "Snubbull" : {
+    "Atk" : 1
+  },
+  "Granbull" : {
+    "Atk" : 2
+  },
+  "Qwilfish" : {
+    "Atk" : 1
+  },
+  "Scizor" : {
+    "Atk" : 2
+  },
+  "Shuckle" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Heracross" : {
+    "Atk" : 2
+  },
+  "Sneasel" : {
+    "Speed" : 1
+  },
+  "Teddiursa" : {
+    "Atk" : 1
+  },
+  "Ursaring" : {
+    "Atk" : 2
+  },
+  "Slugma" : {
+    "Sp. Atk" : 1
+  },
+  "Magcargo" : {
+    "Def" : 2
+  },
+  "Swinub" : {
+    "Atk" : 1
+  },
+  "Piloswine" : {
+    "HP" : 1,
+    "Atk" : 1
+  },
+  "Corsola" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Remoraid" : {
+    "Sp. Atk" : 1
+  },
+  "Octillery" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Delibird" : {
+    "Speed" : 1
+  },
+  "Mantine" : {
+    "Sp. Def" : 2
+  },
+  "Skarmory" : {
+    "Def" : 2
+  },
+  "Houndour" : {
+    "Sp. Atk" : 1
+  },
+  "Houndoom" : {
+    "Sp. Atk" : 2
+  },
+  "Kingdra" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1,
+    "Sp. Def" : 1
+  },
+  "Phanpy" : {
+    "HP" : 1
+  },
+  "Donphan" : {
+    "Atk" : 1,
+    "Def" : 1
+  },
+  "Porygon2" : {
+    "Sp. Atk" : 2
+  },
+  "Stantler" : {
+    "Atk" : 1
+  },
+  "Smeargle" : {
+    "Speed" : 1
+  },
+  "Tyrogue" : {
+    "Atk" : 1
+  },
+  "Hitmontop" : {
+    "Sp. Def" : 2
+  },
+  "Smoochum" : {
+    "Sp. Atk" : 1
+  },
+  "Elekid" : {
+    "Speed" : 1
+  },
+  "Magby" : {
+    "Speed" : 1
+  },
+  "Miltank" : {
+    "Def" : 2
+  },
+  "Blissey" : {
+    "HP" : 3
+  },
+  "Raikou" : {
+    "Sp. Atk" : 1,
+    "Speed" : 2
+  },
+  "Entei" : {
+    "HP" : 1,
+    "Atk" : 2
+  },
+  "Suicune" : {
+    "Def" : 1,
+    "Sp. Def" : 2
+  },
+  "Larvitar" : {
+    "Atk" : 1
+  },
+  "Pupitar" : {
+    "Atk" : 2
+  },
+  "Tyranitar" : {
+    "Atk" : 3
+  },
+  "Lugia" : {
+    "Sp. Def" : 3
+  },
+  "Ho-oh" : {
+    "Sp. Def" : 3
+  },
+  "Celebi" : {
+    "HP" : 3
+  },
+  "Treecko" : {
+    "Speed" : 1
+  },
+  "Grovyle" : {
+    "Speed" : 2
+  },
+  "Sceptile" : {
+    "Speed" : 3
+  },
+  "Torchic" : {
+    "Sp. Atk" : 1
+  },
+  "Combusken" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Blaziken" : {
+    "Atk" : 3
+  },
+  "Mudkip" : {
+    "Atk" : 1
+  },
+  "Marshtomp" : {
+    "Atk" : 2
+  },
+  "Swampert" : {
+    "Atk" : 3
+  },
+  "Poochyena" : {
+    "Atk" : 1
+  },
+  "Mightyena" : {
+    "Atk" : 2
+  },
+  "Zigzagoon" : {
+    "Speed" : 1
+  },
+  "Linoone" : {
+    "Speed" : 2
+  },
+  "Wurmple" : {
+    "HP" : 1
+  },
+  "Silcoon" : {
+    "Def" : 2
+  },
+  "Beautifly" : {
+    "Sp. Atk" : 3
+  },
+  "Cascoon" : {
+    "Def" : 2
+  },
+  "Dustox" : {
+    "Sp. Def" : 3
+  },
+  "Lotad" : {
+    "Sp. Def" : 1
+  },
+  "Lombre" : {
+    "Sp. Def" : 2
+  },
+  "Ludicolo" : {
+    "Sp. Def" : 3
+  },
+  "Seedot" : {
+    "Def" : 1
+  },
+  "Nuzleaf" : {
+    "Atk" : 2
+  },
+  "Shiftry" : {
+    "Atk" : 3
+  },
+  "Taillow" : {
+    "Speed" : 1
+  },
+  "Swellow" : {
+    "Speed" : 2
+  },
+  "Wingull" : {
+    "Speed" : 1
+  },
+  "Pelipper" : {
+    "Def" : 2
+  },
+  "Ralts" : {
+    "Sp. Atk" : 1
+  },
+  "Kirlia" : {
+    "Sp. Atk" : 2
+  },
+  "Gardevoir" : {
+    "Sp. Atk" : 3
+  },
+  "Surskit" : {
+    "Speed" : 1
+  },
+  "Masquerain" : {
+    "Sp. Atk" : 1,
+    "Sp. Def" : 1
+  },
+  "Shroomish" : {
+    "HP" : 1
+  },
+  "Breloom" : {
+    "Atk" : 2
+  },
+  "Slakoth" : {
+    "HP" : 1
+  },
+  "Vigoroth" : {
+    "Speed" : 2
+  },
+  "Slaking" : {
+    "HP" : 3
+  },
+  "Nincada" : {
+    "Def" : 1
+  },
+  "Ninjask" : {
+    "Speed" : 2
+  },
+  "Shedinja" : {
+    "HP" : 2
+  },
+  "Whismur" : {
+    "HP" : 1
+  },
+  "Loudred" : {
+    "HP" : 2
+  },
+  "Exploud" : {
+    "HP" : 3
+  },
+  "Makuhita" : {
+    "HP" : 1
+  },
+  "Hariyama" : {
+    "HP" : 2
+  },
+  "Azurill" : {
+    "HP" : 1
+  },
+  "Nosepass" : {
+    "Def" : 1
+  },
+  "Skitty" : {
+    "Speed" : 1
+  },
+  "Delcatty" : {
+    "HP" : 1,
+    "Speed" : 1
+  },
+  "Sableye" : {
+    "Atk" : 1,
+    "Def" : 1
+  },
+  "Mawile" : {
+    "Atk" : 1,
+    "Def" : 1
+  },
+  "Aron" : {
+    "Def" : 1
+  },
+  "Lairon" : {
+    "Def" : 2
+  },
+  "Aggron" : {
+    "Def" : 3
+  },
+  "Meditite" : {
+    "Speed" : 1
+  },
+  "Medicham" : {
+    "Speed" : 2
+  },
+  "Electrike" : {
+    "Speed" : 1
+  },
+  "Manectric" : {
+    "Speed" : 2
+  },
+  "Plusle" : {
+    "Speed" : 1
+  },
+  "Minun" : {
+    "Speed" : 1
+  },
+  "Volbeat" : {
+    "Speed" : 1
+  },
+  "Illumise" : {
+    "Speed" : 1
+  },
+  "Roselia" : {
+    "Sp. Atk" : 2
+  },
+  "RoseliaIII" : {
+    "Sp. Atk" : 1
+  },
+  "Gulpin" : {
+    "HP" : 1
+  },
+  "Swalot" : {
+    "HP" : 2
+  },
+  "Carvanha" : {
+    "Atk" : 1
+  },
+  "Sharpedo" : {
+    "Atk" : 2
+  },
+  "Wailmer" : {
+    "HP" : 1
+  },
+  "Wailord" : {
+    "HP" : 2
+  },
+  "Numel" : {
+    "Sp. Atk" : 1
+  },
+  "Camerupt" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Torkoal" : {
+    "Def" : 2
+  },
+  "Spoink" : {
+    "Sp. Def" : 1
+  },
+  "Grumpig" : {
+    "Sp. Def" : 2
+  },
+  "Spinda" : {
+    "Sp. Atk" : 1
+  },
+  "Trapinch" : {
+    "Atk" : 1
+  },
+  "Vibrava" : {
+    "Atk" : 1,
+    "Speed" : 1
+  },
+  "Flygon" : {
+    "Atk" : 1,
+    "Speed" : 2
+  },
+  "Cacnea" : {
+    "Sp. Atk" : 1
+  },
+  "Cacturne" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Swablu" : {
+    "Sp. Def" : 1
+  },
+  "Altaria" : {
+    "Sp. Def" : 2
+  },
+  "Zangoose" : {
+    "Atk" : 2
+  },
+  "Seviper" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Lunatone" : {
+    "Sp. Atk" : 2
+  },
+  "Solrock" : {
+    "Atk" : 2
+  },
+  "Barboach" : {
+    "HP" : 1
+  },
+  "Whiscash" : {
+    "HP" : 2
+  },
+  "Corphish" : {
+    "Atk" : 1
+  },
+  "Crawdaunt" : {
+    "Atk" : 2
+  },
+  "Baltoy" : {
+    "Sp. Def" : 1
+  },
+  "Claydol" : {
+    "Sp. Def" : 2
+  },
+  "Lileep" : {
+    "Sp. Def" : 1
+  },
+  "Cradily" : {
+    "Sp. Def" : 2
+  },
+  "Anorith" : {
+    "Atk" : 1
+  },
+  "Armaldo" : {
+    "Atk" : 2
+  },
+  "Feebas" : {
+    "Speed" : 1
+  },
+  "Milotic" : {
+    "Sp. Def" : 2
+  },
+  "Castform" : {
+    "HP" : 1
+  },
+  "Kecleon" : {
+    "Sp. Def" : 1
+  },
+  "Shuppet" : {
+    "Atk" : 1
+  },
+  "Banette" : {
+    "Atk" : 2
+  },
+  "Duskull" : {
+    "Sp. Def" : 1
+  },
+  "Dusclops" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Tropius" : {
+    "HP" : 2
+  },
+  "Chimecho" : {
+    "Sp. Atk" : 1,
+    "Sp. Def" : 1
+  },
+  "Absol" : {
+    "Atk" : 2
+  },
+  "Wynaut" : {
+    "HP" : 1
+  },
+  "Snorunt" : {
+    "HP" : 1
+  },
+  "Glalie" : {
+    "HP" : 2
+  },
+  "Spheal" : {
+    "HP" : 1
+  },
+  "Sealeo" : {
+    "HP" : 2
+  },
+  "Walrein" : {
+    "HP" : 3
+  },
+  "Clamperl" : {
+    "Def" : 1
+  },
+  "Huntail" : {
+    "Atk" : 1,
+    "Def" : 1
+  },
+  "Gorebyss" : {
+    "Sp. Atk" : 2
+  },
+  "Relicanth" : {
+    "HP" : 1,
+    "Def" : 1
+  },
+  "Luvdisc" : {
+    "Speed" : 1
+  },
+  "Bagon" : {
+    "Atk" : 1
+  },
+  "Shelgon" : {
+    "Def" : 2
+  },
+  "Salamence" : {
+    "Atk" : 3
+  },
+  "Beldum" : {
+    "Def" : 1
+  },
+  "Metang" : {
+    "Def" : 2
+  },
+  "Metagross" : {
+    "Def" : 3
+  },
+  "Regirock" : {
+    "Def" : 3
+  },
+  "Regice" : {
+    "Sp. Def" : 3
+  },
+  "Registeel" : {
+    "Def" : 2,
+    "Sp. Def" : 1
+  },
+  "Latias" : {
+    "Sp. Def" : 3
+  },
+  "Latios" : {
+    "Sp. Atk" : 3
+  },
+  "Kyogre" : {
+    "Sp. Atk" : 3
+  },
+  "Groudon" : {
+    "Atk" : 3
+  },
+  "Rayquaza" : {
+    "Atk" : 2,
+    "Sp. Atk" : 1
+  },
+  "Jirachi" : {
+    "HP" : 3
+  },
+  "Deoxys" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Turtwig" : {
+    "Atk" : 1
+  },
+  "Grotle" : {
+    "Atk" : 1,
+    "Def" : 1
+  },
+  "Torterra" : {
+    "Atk" : 2,
+    "Def" : 1
+  },
+  "Chimchar" : {
+    "Speed" : 1
+  },
+  "Monferno" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Infernape" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Piplup" : {
+    "Sp. Atk" : 1
+  },
+  "Prinplup" : {
+    "Sp. Atk" : 2
+  },
+  "Empoleon" : {
+    "Sp. Atk" : 3
+  },
+  "Starly" : {
+    "Speed" : 1
+  },
+  "Staravia" : {
+    "Speed" : 2
+  },
+  "Staraptor" : {
+    "Atk" : 3
+  },
+  "Bidoof" : {
+    "HP" : 1
+  },
+  "Bibarel" : {
+    "Atk" : 2
+  },
+  "Kricketot" : {
+    "Def" : 1
+  },
+  "Kricketune" : {
+    "Atk" : 2
+  },
+  "Shinx" : {
+    "Atk" : 1
+  },
+  "Luxio" : {
+    "Atk" : 2
+  },
+  "Luxray" : {
+    "Atk" : 3
+  },
+  "Budew" : {
+    "Sp. Atk" : 1
+  },
+  "Roserade" : {
+    "Sp. Atk" : 3
+  },
+  "Cranidos" : {
+    "Atk" : 1
+  },
+  "Rampardos" : {
+    "Atk" : 2
+  },
+  "Shieldon" : {
+    "Def" : 1
+  },
+  "Bastiodon" : {
+    "Def" : 2
+  },
+  "Burmy" : {
+    "Sp. Def" : 1
+  },
+  "Wormadam" : {
+    "Sp. Def" : 2
+  },
+  "Mothim" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Combee" : {
+    "Speed" : 1
+  },
+  "Vespiquen" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Pachirisu" : {
+    "Speed" : 1
+  },
+  "Buizel" : {
+    "Speed" : 1
+  },
+  "Floatzel" : {
+    "Speed" : 2
+  },
+  "Cherubi" : {
+    "Sp. Atk" : 1
+  },
+  "Cherrim" : {
+    "Sp. Atk" : 2
+  },
+  "ShellosWest-Sea" : {
+    "HP" : 1
+  },
+  "ShellosEast-Sea" : {
+    "HP" : 1
+  },
+  "Shellos" : {
+    "HP" : 1
+  },
+  "GastrodonWest-Sea" : {
+    "HP" : 2
+  },
+  "GastrodonEast-Sea" : {
+    "HP" : 2
+  },
+  "Gastrodon" : {
+    "HP" : 2
+  },
+  "Ambipom" : {
+    "Speed" : 2
+  },
+  "Drifloon" : {
+    "HP" : 1
+  },
+  "Drifblim" : {
+    "HP" : 2
+  },
+  "Buneary" : {
+    "Speed" : 1
+  },
+  "Lopunny" : {
+    "Speed" : 2
+  },
+  "Mismagius" : {
+    "Sp. Atk" : 1,
+    "Sp. Def" : 1
+  },
+  "Honchkrow" : {
+    "Atk" : 2
+  },
+  "Glameow" : {
+    "Speed" : 1
+  },
+  "Purugly" : {
+    "Speed" : 2
+  },
+  "Chingling" : {
+    "Sp. Atk" : 1
+  },
+  "Stunky" : {
+    "Speed" : 1
+  },
+  "Skuntank" : {
+    "HP" : 2
+  },
+  "Bronzor" : {
+    "Def" : 1
+  },
+  "Bronzong" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Bonsly" : {
+    "Def" : 1
+  },
+  "Mime-Jr." : {
+    "Sp. Def" : 1
+  },
+  "Happiny" : {
+    "HP" : 1
+  },
+  "Chatot" : {
+    "Atk" : 1
+  },
+  "Spiritomb" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Gible" : {
+    "Atk" : 1
+  },
+  "Gabite" : {
+    "Atk" : 2
+  },
+  "Garchomp" : {
+    "Atk" : 3
+  },
+  "Munchlax" : {
+    "HP" : 1
+  },
+  "Riolu" : {
+    "Atk" : 1
+  },
+  "Lucario" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Hippopotas" : {
+    "Def" : 1
+  },
+  "Hippowdon" : {
+    "Def" : 2
+  },
+  "Skorupi" : {
+    "Def" : 1
+  },
+  "Drapion" : {
+    "Def" : 2
+  },
+  "Croagunk" : {
+    "Atk" : 1
+  },
+  "Toxicroak" : {
+    "Atk" : 2
+  },
+  "Carnivine" : {
+    "Atk" : 2
+  },
+  "Finneon" : {
+    "Speed" : 1
+  },
+  "Lumineon" : {
+    "Speed" : 2
+  },
+  "Mantyke" : {
+    "Sp. Def" : 1
+  },
+  "Snover" : {
+    "Atk" : 1
+  },
+  "Abomasnow" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Weavile" : {
+    "Atk" : 1,
+    "Speed" : 1
+  },
+  "Magnezone" : {
+    "Sp. Atk" : 3
+  },
+  "Lickilicky" : {
+    "HP" : 3
+  },
+  "Rhyperior" : {
+    "Atk" : 3
+  },
+  "Tangrowth" : {
+    "Def" : 2
+  },
+  "Electivire" : {
+    "Atk" : 3
+  },
+  "Magmortar" : {
+    "Sp. Atk" : 3
+  },
+  "Togekiss" : {
+    "Sp. Atk" : 2,
+    "Sp. Def" : 1
+  },
+  "Yanmega" : {
+    "Atk" : 2
+  },
+  "Leafeon" : {
+    "Def" : 2
+  },
+  "Glaceon" : {
+    "Sp. Atk" : 2
+  },
+  "Gliscor" : {
+    "Def" : 2
+  },
+  "Mamoswine" : {
+    "Atk" : 3
+  },
+  "Porygon-Z" : {
+    "Sp. Atk" : 3
+  },
+  "Gallade" : {
+    "Atk" : 3
+  },
+  "Probopass" : {
+    "Def" : 1,
+    "Sp. Def" : 2
+  },
+  "Dusknoir" : {
+    "Def" : 1,
+    "Sp. Def" : 2
+  },
+  "Froslass" : {
+    "Speed" : 2
+  },
+  "Rotom" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "RotomNormal-Rotom" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "RotomHeat-Rotom" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "RotomWash-Rotom" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "RotomFrost-Rotom" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "RotomFan-Rotom" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "RotomMow-Rotom" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Uxie" : {
+    "Def" : 2,
+    "Sp. Def" : 1
+  },
+  "Mesprit" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1,
+    "Sp. Def" : 1
+  },
+  "Azelf" : {
+    "Atk" : 2,
+    "Sp. Atk" : 1
+  },
+  "Dialga" : {
+    "Sp. Atk" : 3
+  },
+  "Palkia" : {
+    "Sp. Atk" : 3
+  },
+  "Heatran" : {
+    "Sp. Atk" : 3
+  },
+  "Regigigas" : {
+    "Atk" : 3
+  },
+  "Giratina" : {
+    "HP" : 3
+  },
+  "Cresselia" : {
+    "Sp. Def" : 3
+  },
+  "Phione" : {
+    "HP" : 1
+  },
+  "Manaphy" : {
+    "HP" : 3
+  },
+  "Darkrai" : {
+    "Sp. Atk" : 2,
+    "Speed" : 1
+  },
+  "Shaymin" : {
+    "HP" : 3
+  },
+  "Arceus" : {
+    "HP" : 3
+  },
+  "Victini" : {
+    "HP" : 3
+  },
+  "Snivy" : {
+    "Speed" : 1
+  },
+  "Servine" : {
+    "Speed" : 2
+  },
+  "Serperior" : {
+    "Speed" : 3
+  },
+  "Tepig" : {
+    "HP" : 1
+  },
+  "Pignite" : {
+    "Atk" : 2
+  },
+  "Emboar" : {
+    "Atk" : 3
+  },
+  "Oshawott" : {
+    "Sp. Atk" : 1
+  },
+  "Dewott" : {
+    "Sp. Atk" : 2
+  },
+  "Samurott" : {
+    "Sp. Atk" : 3
+  },
+  "Patrat" : {
+    "Atk" : 1
+  },
+  "Watchog" : {
+    "Atk" : 2
+  },
+  "Lillipup" : {
+    "Atk" : 1
+  },
+  "Herdier" : {
+    "Atk" : 2
+  },
+  "Stoutland" : {
+    "Atk" : 3
+  },
+  "Purrloin" : {
+    "Speed" : 1
+  },
+  "Liepard" : {
+    "Speed" : 2
+  },
+  "Pansage" : {
+    "Speed" : 1
+  },
+  "Simisage" : {
+    "Speed" : 2
+  },
+  "Pansear" : {
+    "Speed" : 1
+  },
+  "Simisear" : {
+    "Speed" : 2
+  },
+  "Panpour" : {
+    "Speed" : 1
+  },
+  "Simipour" : {
+    "Speed" : 2
+  },
+  "Munna" : {
+    "HP" : 1
+  },
+  "Musharna" : {
+    "HP" : 2
+  },
+  "Pidove" : {
+    "Atk" : 1
+  },
+  "Tranquill" : {
+    "Atk" : 2
+  },
+  "Unfezant" : {
+    "Atk" : 3
+  },
+  "Blitzle" : {
+    "Speed" : 1
+  },
+  "Zebstrika" : {
+    "Speed" : 2
+  },
+  "Roggenrola" : {
+    "Def" : 1
+  },
+  "Boldore" : {
+    "Atk" : 1,
+    "Def" : 1
+  },
+  "Gigalith" : {
+    "Atk" : 3
+  },
+  "Woobat" : {
+    "Speed" : 1
+  },
+  "Swoobat" : {
+    "Speed" : 2
+  },
+  "Drilbur" : {
+    "Atk" : 1
+  },
+  "Excadrill" : {
+    "Atk" : 2
+  },
+  "Audino" : {
+    "HP" : 2
+  },
+  "Timburr" : {
+    "Atk" : 1
+  },
+  "Gurdurr" : {
+    "Atk" : 2
+  },
+  "Conkeldurr" : {
+    "Atk" : 3
+  },
+  "Tympole" : {
+    "Speed" : 1
+  },
+  "Palpitoad" : {
+    "HP" : 2
+  },
+  "Seismitoad" : {
+    "HP" : 3
+  },
+  "Throh" : {
+    "HP" : 2
+  },
+  "Sawk" : {
+    "Atk" : 2
+  },
+  "Sewaddle" : {
+    "Def" : 1
+  },
+  "Swadloon" : {
+    "Def" : 2
+  },
+  "Leavanny" : {
+    "Atk" : 3
+  },
+  "Venipede" : {
+    "Def" : 1
+  },
+  "Whirlipede" : {
+    "Def" : 2
+  },
+  "Scolipede" : {
+    "Speed" : 3
+  },
+  "Cottonee" : {
+    "Speed" : 1
+  },
+  "Whimsicott" : {
+    "Speed" : 2
+  },
+  "Petilil" : {
+    "Sp. Atk" : 1
+  },
+  "Lilligant" : {
+    "Sp. Atk" : 2
+  },
+  "Basculin" : {
+    "Speed" : 2
+  },
+  "Sandile" : {
+    "Atk" : 1
+  },
+  "Krokorok" : {
+    "Atk" : 2
+  },
+  "Krookodile" : {
+    "Atk" : 3
+  },
+  "Darumaka" : {
+    "Atk" : 1
+  },
+  "Darmanitan" : {
+    "Atk" : 2,
+    "Sp. Atk" : 2
+  },
+  "DarmanitanStandard-Mode" : {
+    "Atk" : 2
+  },
+  "DarmanitanZen-Mode" : {
+    "Sp. Atk" : 2
+  },
+  "Maractus" : {
+    "Sp. Atk" : 2
+  },
+  "Dwebble" : {
+    "Def" : 1
+  },
+  "Crustle" : {
+    "Def" : 2
+  },
+  "Scraggy" : {
+    "Atk" : 1
+  },
+  "Scrafty" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Sigilyph" : {
+    "Sp. Atk" : 2
+  },
+  "Yamask" : {
+    "Def" : 1
+  },
+  "Cofagrigus" : {
+    "Def" : 2
+  },
+  "Tirtouga" : {
+    "Def" : 1
+  },
+  "Carracosta" : {
+    "Def" : 2
+  },
+  "Archen" : {
+    "Atk" : 1
+  },
+  "Archeops" : {
+    "Atk" : 2
+  },
+  "Trubbish" : {
+    "Speed" : 1
+  },
+  "Garbodor" : {
+    "Atk" : 2
+  },
+  "Zorua" : {
+    "Sp. Atk" : 1
+  },
+  "Zoroark" : {
+    "Sp. Atk" : 2
+  },
+  "Minccino" : {
+    "Speed" : 1
+  },
+  "Cinccino" : {
+    "Speed" : 2
+  },
+  "Gothita" : {
+    "Sp. Def" : 1
+  },
+  "Gothorita" : {
+    "Sp. Def" : 2
+  },
+  "Gothitelle" : {
+    "Sp. Def" : 3
+  },
+  "Solosis" : {
+    "Sp. Atk" : 1
+  },
+  "Duosion" : {
+    "Sp. Atk" : 2
+  },
+  "Reuniclus" : {
+    "Sp. Atk" : 3
+  },
+  "Ducklett" : {
+    "HP" : 1
+  },
+  "Swanna" : {
+    "Speed" : 2
+  },
+  "Vanillite" : {
+    "Sp. Atk" : 1
+  },
+  "Vanillish" : {
+    "Sp. Atk" : 2
+  },
+  "Vanilluxe" : {
+    "Sp. Atk" : 3
+  },
+  "Deerling" : {
+    "Speed" : 1
+  },
+  "DeerlingSpring-Form" : {
+    "Speed" : 1
+  },
+  "DeerlingSummer-Form" : {
+    "Speed" : 1
+  },
+  "DeerlingAutumn-Form" : {
+    "Speed" : 1
+  },
+  "DeerlingWinter-Form" : {
+    "Speed" : 1
+  },
+  "Sawsbuck" : {
+    "Atk" : 2
+  },
+  "Emolga" : {
+    "Speed" : 2
+  },
+  "Karrablast" : {
+    "Atk" : 1
+  },
+  "Escavalier" : {
+    "Atk" : 2
+  },
+  "Foongus" : {
+    "HP" : 1
+  },
+  "Amoonguss" : {
+    "HP" : 2
+  },
+  "Frillish" : {
+    "Sp. Def" : 1
+  },
+  "Jellicent" : {
+    "Sp. Def" : 2
+  },
+  "Alomomola" : {
+    "HP" : 2
+  },
+  "Joltik" : {
+    "Speed" : 1
+  },
+  "Galvantula" : {
+    "Speed" : 2
+  },
+  "Ferroseed" : {
+    "Def" : 1
+  },
+  "Ferrothorn" : {
+    "Def" : 2
+  },
+  "Klink" : {
+    "Def" : 1
+  },
+  "Klang" : {
+    "Def" : 2
+  },
+  "Klinklang" : {
+    "Def" : 3
+  },
+  "Tynamo" : {
+    "Speed" : 1
+  },
+  "Eelektrik" : {
+    "Atk" : 2
+  },
+  "Eelektross" : {
+    "Atk" : 3
+  },
+  "Elgyem" : {
+    "Sp. Atk" : 1
+  },
+  "Beheeyem" : {
+    "Sp. Atk" : 2
+  },
+  "Litwick" : {
+    "Sp. Atk" : 1
+  },
+  "Lampent" : {
+    "Sp. Atk" : 2
+  },
+  "Chandelure" : {
+    "Sp. Atk" : 3
+  },
+  "Axew" : {
+    "Atk" : 1
+  },
+  "Fraxure" : {
+    "Atk" : 2
+  },
+  "Haxorus" : {
+    "Atk" : 3
+  },
+  "Cubchoo" : {
+    "Atk" : 1
+  },
+  "Beartic" : {
+    "Atk" : 2
+  },
+  "Cryogonal" : {
+    "Sp. Def" : 2
+  },
+  "Shelmet" : {
+    "Def" : 1
+  },
+  "Accelgor" : {
+    "Speed" : 2
+  },
+  "Stunfisk" : {
+    "HP" : 2
+  },
+  "Mienfoo" : {
+    "Atk" : 1
+  },
+  "Mienshao" : {
+    "Atk" : 2
+  },
+  "Druddigon" : {
+    "Atk" : 2
+  },
+  "Golett" : {
+    "Atk" : 1
+  },
+  "Golurk" : {
+    "Atk" : 2
+  },
+  "Pawniard" : {
+    "Atk" : 1
+  },
+  "Bisharp" : {
+    "Atk" : 2
+  },
+  "Bouffalant" : {
+    "Atk" : 2
+  },
+  "Rufflet" : {
+    "Atk" : 1
+  },
+  "Braviary" : {
+    "Atk" : 2
+  },
+  "Vullaby" : {
+    "Def" : 1
+  },
+  "Mandibuzz" : {
+    "Sp. Atk" : 2
+  },
+  "Heatmor" : {
+    "Sp. Atk" : 2
+  },
+  "Durant" : {
+    "Def" : 2
+  },
+  "Deino" : {
+    "Atk" : 1
+  },
+  "Zweilous" : {
+    "Atk" : 2
+  },
+  "Hydreigon" : {
+    "Sp. Atk" : 3
+  },
+  "Larvesta" : {
+    "Atk" : 1
+  },
+  "Volcarona" : {
+    "Sp. Atk" : 3
+  },
+  "Cobalion" : {
+    "Def" : 3
+  },
+  "Terrakion" : {
+    "Atk" : 3
+  },
+  "Virizion" : {
+    "Sp. Def" : 3
+  },
+  "Tornadus" : {
+    "Atk" : 3
+  },
+  "Thundurus" : {
+    "Atk" : 3
+  },
+  "Reshiram" : {
+    "Sp. Atk" : 3
+  },
+  "Zekrom" : {
+    "Atk" : 3
+  },
+  "Landorus" : {
+    "Sp. Atk" : 3
+  },
+  "Kyurem" : {
+    "HP" : 1,
+    "Atk" : 1,
+    "Sp. Atk" : 1
+  },
+  "Keldeo" : {
+    "Sp. Atk" : 3
+  },
+  "Meloetta" : {
+    "Sp. Atk" : 1,
+    "Sp. Def" : 1,
+    "Speed" : 1
+  },
+  "Genesect" : {
+    "Atk" : 1,
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Chespin" : {
+    "Def" : 1
+  },
+  "Quilladin" : {
+    "Def" : 2
+  },
+  "Chesnaught" : {
+    "Def" : 3
+  },
+  "Fennekin" : {
+    "Sp. Atk" : 1
+  },
+  "Braixen" : {
+    "Sp. Atk" : 2
+  },
+  "Delphox" : {
+    "Sp. Atk" : 3
+  },
+  "Froakie" : {
+    "Speed" : 1
+  },
+  "Frogadier" : {
+    "Speed" : 2
+  },
+  "Greninja" : {
+    "Speed" : 3
+  },
+  "Bunnelby" : {
+    "Speed" : 1
+  },
+  "Diggersby" : {
+    "HP" : 2
+  },
+  "Fletchling" : {
+    "Speed" : 1
+  },
+  "Fletchinder" : {
+    "Speed" : 2
+  },
+  "Talonflame" : {
+    "Speed" : 3
+  },
+  "Scatterbug" : {
+    "Def" : 1
+  },
+  "Spewpa" : {
+    "Def" : 2
+  },
+  "Vivillon" : {
+    "HP" : 1,
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Litleo" : {
+    "Sp. Atk" : 1
+  },
+  "Pyroar" : {
+    "Sp. Atk" : 2
+  },
+  "Flabébé" : {
+    "Sp. Def" : 1
+  },
+  "Flab%C3%A9b%C3%A9" : {
+    "Sp. Def" : 1
+  },
+  "Floette" : {
+    "Sp. Def" : 2
+  },
+  "Florges" : {
+    "Sp. Def" : 3
+  },
+  "Skiddo" : {
+    "HP" : 1
+  },
+  "Gogoat" : {
+    "HP" : 2
+  },
+  "Pancham" : {
+    "Atk" : 1
+  },
+  "Pangoro" : {
+    "Atk" : 2
+  },
+  "Furfrou" : {
+    "Speed" : 1
+  },
+  "Espurr" : {
+    "Speed" : 1
+  },
+  "Meowstic" : {
+    "Speed" : 2
+  },
+  "Honedge" : {
+    "Def" : 1
+  },
+  "Doublade" : {
+    "Def" : 2
+  },
+  "Aegislash" : {
+    "Atk" : 2,
+    "Sp. Atk" : 1
+  },
+  "Spritzee" : {
+    "HP" : 1
+  },
+  "Aromatisse" : {
+    "HP" : 2
+  },
+  "Swirlix" : {
+    "Def" : 1
+  },
+  "Slurpuff" : {
+    "Def" : 2
+  },
+  "Inkay" : {
+    "Atk" : 1
+  },
+  "Malamar" : {
+    "Atk" : 2
+  },
+  "Binacle" : {
+    "Atk" : 1
+  },
+  "Barbaracle" : {
+    "Atk" : 2
+  },
+  "Skrelp" : {
+    "Sp. Def" : 1
+  },
+  "Dragalge" : {
+    "Sp. Def" : 2
+  },
+  "Clauncher" : {
+    "Sp. Atk" : 1
+  },
+  "Clawitzer" : {
+    "Sp. Atk" : 2
+  },
+  "Helioptile" : {
+    "Speed" : 1
+  },
+  "Heliolisk" : {
+    "Sp. Atk" : 1,
+    "Speed" : 1
+  },
+  "Tyrunt" : {
+    "Atk" : 1
+  },
+  "Tyrantrum" : {
+    "Atk" : 2
+  },
+  "Amaura" : {
+    "HP" : 1
+  },
+  "Aurorus" : {
+    "HP" : 2
+  },
+  "Sylveon" : {
+    "Sp. Def" : 2
+  },
+  "Hawlucha" : {
+    "Atk" : 2
+  },
+  "Dedenne" : {
+    "Speed" : 2
+  },
+  "Carbink" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Goomy" : {
+    "Sp. Def" : 1
+  },
+  "Sliggoo" : {
+    "Sp. Def" : 2
+  },
+  "Goodra" : {
+    "Sp. Def" : 3
+  },
+  "Klefki" : {
+    "Def" : 1
+  },
+  "Phantump" : {
+    "Atk" : 1
+  },
+  "Trevenant" : {
+    "Atk" : 2
+  },
+  "Pumpkaboo" : {
+    "Def" : 1
+  },
+  "Gourgeist" : {
+    "Def" : 2
+  },
+  "Bergmite" : {
+    "Def" : 1
+  },
+  "Avalugg" : {
+    "Def" : 2
+  },
+  "Noibat" : {
+    "Speed" : 1
+  },
+  "Noivern" : {
+    "Speed" : 2
+  },
+  "Xerneas" : {
+    "HP" : 3
+  },
+  "Yveltal" : {
+    "HP" : 3
+  },
+  "Zygarde" : {
+    "HP" : 3
+  },
+  "Diancie" : {
+    "Def" : 1,
+    "Sp. Def" : 2
+  },
+  "Hoopa" : {
+    "Sp. Atk" : 3
+  },
+  "Volcanion" : {
+    "Sp. Atk" : 3
+  },
+  "Rowlet" : {
+    "HP" : 1
+  },
+  "Dartrix" : {
+    "HP" : 2
+  },
+  "Decidueye" : {
+    "Atk" : 3
+  },
+  "Litten" : {
+    "Speed" : 1
+  },
+  "Torracat" : {
+    "Speed" : 2
+  },
+  "Incineroar" : {
+    "Atk" : 3
+  },
+  "Popplio" : {
+    "Sp. Atk" : 1
+  },
+  "Brionne" : {
+    "Sp. Atk" : 2
+  },
+  "Primarina" : {
+    "Sp. Atk" : 3
+  },
+  "Pikipek" : {
+    "Atk" : 1
+  },
+  "Trumbeak" : {
+    "Atk" : 2
+  },
+  "Toucannon" : {
+    "Atk" : 3
+  },
+  "Yungoos" : {
+    "Atk" : 1
+  },
+  "Gumshoos" : {
+    "Atk" : 2
+  },
+  "Grubbin" : {
+    "Atk" : 1
+  },
+  "Charjabug" : {
+    "Def" : 2
+  },
+  "Vikavolt" : {
+    "Sp. Atk" : 3
+  },
+  "Crabrawler" : {
+    "Atk" : 1
+  },
+  "Crabominable" : {
+    "Atk" : 2
+  },
+  "Oricorio" : {
+    "Sp. Atk" : 2
+  },
+  "Cutiefly" : {
+    "Speed" : 1
+  },
+  "Ribombee" : {
+    "Speed" : 2
+  },
+  "Rockruff" : {
+    "Atk" : 1
+  },
+  "Lycanroc" : {
+    "Atk" : 2
+  },
+  "Wishiwashi" : {
+    "HP" : 1
+  },
+  "Mareanie" : {
+    "Def" : 1
+  },
+  "Toxapex" : {
+    "Def" : 2
+  },
+  "Mudbray" : {
+    "Atk" : 1
+  },
+  "Mudsdale" : {
+    "Atk" : 2
+  },
+  "Dewpider" : {
+    "Sp. Def" : 1
+  },
+  "Araquanid" : {
+    "Sp. Def" : 2
+  },
+  "Fomantis" : {
+    "Atk" : 1
+  },
+  "Lurantis" : {
+    "Atk" : 2
+  },
+  "Morelull" : {
+    "Sp. Def" : 1
+  },
+  "Shiinotic" : {
+    "Sp. Def" : 2
+  },
+  "Salandit" : {
+    "Speed" : 1
+  },
+  "Salazzle" : {
+    "Speed" : 2
+  },
+  "Stufful" : {
+    "Atk" : 1
+  },
+  "Bewear" : {
+    "Atk" : 2
+  },
+  "Bounsweet" : {
+    "HP" : 1
+  },
+  "Steenee" : {
+    "Speed" : 2
+  },
+  "Tsareena" : {
+    "Atk" : 3
+  },
+  "Comfey" : {
+    "Sp. Def" : 2
+  },
+  "Oranguru" : {
+    "Sp. Def" : 2
+  },
+  "Passimian" : {
+    "Atk" : 2
+  },
+  "Wimpod" : {
+    "Speed" : 1
+  },
+  "Golisopod" : {
+    "Def" : 2
+  },
+  "Sandygast" : {
+    "Def" : 1
+  },
+  "Palossand" : {
+    "Def" : 2
+  },
+  "Pyukumuku" : {
+    "Sp. Def" : 2
+  },
+  "Silvally" : {
+    "HP" : 3
+  },
+  "Minior" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Komala" : {
+    "Atk" : 2
+  },
+  "Turtonator" : {
+    "Def" : 2
+  },
+  "Togedemaru" : {
+    "Atk" : 2
+  },
+  "Mimikyu" : {
+    "Sp. Def" : 2
+  },
+  "Bruxish" : {
+    "Atk" : 2
+  },
+  "Drampa" : {
+    "Sp. Atk" : 2
+  },
+  "Dhelmise" : {
+    "Atk" : 2
+  },
+  "Jangmo-o" : {
+    "Def" : 1
+  },
+  "Hakamo-o" : {
+    "Def" : 2
+  },
+  "Kommo-o" : {
+    "Def" : 3
+  },
+  "Tapu-Koko" : {
+    "Speed" : 3
+  },
+  "Tapu-Lele" : {
+    "Sp. Atk" : 3
+  },
+  "Tapu-Bulu" : {
+    "Atk" : 3
+  },
+  "Tapu-Fini" : {
+    "Sp. Def" : 3
+  },
+  "Cosmog" : {
+    "HP" : 1
+  },
+  "Cosmoem" : {
+    "Def" : 1,
+    "Sp. Def" : 1
+  },
+  "Solgaleo" : {
+    "Atk" : 3
+  },
+  "Lunala" : {
+    "Sp. Atk" : 3
+  },
+  "Nihilego" : {
+    "Sp. Def" : 3
+  },
+  "Buzzwole" : {
+    "Atk" : 1,
+    "Def" : 2
+  },
+  "Pheromosa" : {
+    "Speed" : 3
+  },
+  "Xurkitree" : {
+    "Sp. Atk" : 3
+  },
+  "Celesteela" : {
+    "Atk" : 1,
+    "Def" : 1,
+    "Sp. Atk" : 1
+  },
+  "Kartana" : {
+    "Atk" : 3
+  },
+  "Guzzlord" : {
+    "HP" : 3
+  },
+  "Necrozma" : {
+    "Atk" : 1,
+    "Sp. Atk" : 2
+  },
+  "Magearna" : {
+    "Sp. Atk" : 3
+  },
+  "Marshadow" : {
+    "Atk" : 2,
+    "Speed" : 1
+  },
+  "Poipole" : {
+    "Speed" : 1
+  }
+}

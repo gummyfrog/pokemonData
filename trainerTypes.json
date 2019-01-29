@@ -1,0 +1,844 @@
+{
+  "trainers" : [
+    {
+      "name" : "Ace Trainer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Ace_Trainer_(Trainer_class)"
+    },
+    {
+      "name" : "Beauty",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Beauty_(Trainer_class)"
+    },
+    {
+      "name" : "Biker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Biker_(Trainer_class)"
+    },
+    {
+      "name" : "Bird Keeper",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Bird_Keeper_(Trainer_class)"
+    },
+    {
+      "name" : "Black Belt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Black_Belt_(Trainer_class)"
+    },
+    {
+      "name" : "Bug Catcher",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Bug_Catcher_(Trainer_class)"
+    },
+    {
+      "name" : "Burglar",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Burglar_(Trainer_class)"
+    },
+    {
+      "name" : "Camper",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Camper_(Trainer_class)"
+    },
+    {
+      "name" : "Channeler",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Channeler_(Trainer_class)"
+    },
+    {
+      "name" : "Engineer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Engineer_(Trainer_class)"
+    },
+    {
+      "name" : "Fisherman",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Fisherman_(Trainer_class)"
+    },
+    {
+      "name" : "Gamer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Gamer_(Trainer_class)"
+    },
+    {
+      "name" : "Gentleman",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Gentleman_(Trainer_class)"
+    },
+    {
+      "name" : "Hiker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Hiker_(Trainer_class)"
+    },
+    {
+      "name" : "Juggler",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Juggler_(Trainer_class)"
+    },
+    {
+      "name" : "Lass",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Lass_(Trainer_class)"
+    },
+    {
+      "name" : "Picnicker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Picnicker_(Trainer_class)"
+    },
+    {
+      "name" : "Poké Maniac",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Maniac_(Trainer_class)"
+    },
+    {
+      "name" : "Psychic",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Psychic_(Trainer_class)"
+    },
+    {
+      "name" : "Rocker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Rocker_(Trainer_class)"
+    },
+    {
+      "name" : "Roughneck",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Roughneck_(Trainer_class)"
+    },
+    {
+      "name" : "Sailor",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Sailor_(Trainer_class)"
+    },
+    {
+      "name" : "Scientist",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Scientist_(Trainer_class)"
+    },
+    {
+      "name" : "Super Nerd",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Super_Nerd_(Trainer_class)"
+    },
+    {
+      "name" : "Swimmer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Swimmer_(Trainer_class)"
+    },
+    {
+      "name" : "Tamer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Tamer_(Trainer_class)"
+    },
+    {
+      "name" : "Team Rocket Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Rocket_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Youngster",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Youngster_(Trainer_class)"
+    },
+    {
+      "name" : "Boarder",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Boarder_(Trainer_class)"
+    },
+    {
+      "name" : "Double Team",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Double_Team_(Trainer_class)"
+    },
+    {
+      "name" : "Firebreather",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Firebreather_(Trainer_class)"
+    },
+    {
+      "name" : "Guitarist",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Guitarist_(Trainer_class)"
+    },
+    {
+      "name" : "Medium",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Medium_(Trainer_class)"
+    },
+    {
+      "name" : "Pokéfan",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Fan_(Trainer_class)"
+    },
+    {
+      "name" : "School Kid",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Schoolkid_(Trainer_class)"
+    },
+    {
+      "name" : "Skier",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Skier_(Trainer_class)"
+    },
+    {
+      "name" : "Teacher",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Teacher_(Trainer_class)"
+    },
+    {
+      "name" : "Twins",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Twins_(Trainer_class)"
+    },
+    {
+      "name" : "Cool Couple",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Cool_Couple_(Trainer_class)"
+    },
+    {
+      "name" : "Crush Kin",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Crush_Kin_(Trainer_class)"
+    },
+    {
+      "name" : "Sis and Bro",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Sis_and_Bro_(Trainer_class)"
+    },
+    {
+      "name" : "Young Couple",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Young_Couple_(Trainer_class)"
+    },
+    {
+      "name" : "Coach Trainer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Coach_Trainer_(Trainer_class)"
+    },
+    {
+      "name" : "Punk Guy",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Punk_Guy_(Trainer_class)"
+    },
+    {
+      "name" : "Team Rocket Admin",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Rocket_Admin_(Trainer_class)"
+    },
+    {
+      "name" : "Executive",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Executive_(Trainer_class)"
+    },
+    {
+      "name" : "Policeman",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Police_Officer_(Trainer_class)"
+    },
+    {
+      "name" : "Sage",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Sage_(Trainer_class)"
+    },
+    {
+      "name" : "Aroma Lady",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Aroma_Lady_(Trainer_class)"
+    },
+    {
+      "name" : "Artist",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Artist_(Trainer_class)"
+    },
+    {
+      "name" : "Battle Girl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Battle_Girl_(Trainer_class)"
+    },
+    {
+      "name" : "Cameraman",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Cameraman_(Trainer_class)"
+    },
+    {
+      "name" : "Clown",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Clown_(Trainer_class)"
+    },
+    {
+      "name" : "Collector",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Collector_(Trainer_class)"
+    },
+    {
+      "name" : "Cowgirl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Cowgirl_(Trainer_class)"
+    },
+    {
+      "name" : "Cyclist",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Cyclist_(Trainer_class)"
+    },
+    {
+      "name" : "Dragon Tamer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Dragon_Tamer_(Trainer_class)"
+    },
+    {
+      "name" : "Idol",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Idol_(Trainer_class)"
+    },
+    {
+      "name" : "Jogger",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Jogger_(Trainer_class)"
+    },
+    {
+      "name" : "Lady",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Lady_(Trainer_class)"
+    },
+    {
+      "name" : "Ninja Boy",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Ninja_Boy_(Trainer_class)"
+    },
+    {
+      "name" : "Parasol Lady",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Parasol_Lady_(Trainer_class)"
+    },
+    {
+      "name" : "PI",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Gamer_(Trainer_class)"
+    },
+    {
+      "name" : "Poké Kid",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Kid_(Trainer_class)"
+    },
+    {
+      "name" : "PKMN Breeder",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Breeder_(Trainer_class)"
+    },
+    {
+      "name" : "PKMN Ranger",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ranger_(Trainer_class)"
+    },
+    {
+      "name" : "Rancher",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Rancher_(Trainer_class)"
+    },
+    {
+      "name" : "Reporter",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Reporter_(Trainer_class)"
+    },
+    {
+      "name" : "Rich Boy",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Rich_Boy_(Trainer_class)"
+    },
+    {
+      "name" : "Ruin Maniac",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Ruin_Maniac_(Trainer_class)"
+    },
+    {
+      "name" : "Socialite",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Madame_(Trainer_class)"
+    },
+    {
+      "name" : "Tuber",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Tuber_(Trainer_class)"
+    },
+    {
+      "name" : "Veteran",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Veteran_(Trainer_class)"
+    },
+    {
+      "name" : "Waiter",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Waiter_(Trainer_class)"
+    },
+    {
+      "name" : "Waitress",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Waitress_(Trainer_class)"
+    },
+    {
+      "name" : "Worker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Worker_(Trainer_class)"
+    },
+    {
+      "name" : "Factory Head",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Factory_Head_(Trainer_class)"
+    },
+    {
+      "name" : "Tower Tycoon",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Tower_Tycoon_(Trainer_class)"
+    },
+    {
+      "name" : "Aqua Admin",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Aqua_Admin_(Trainer_class)"
+    },
+    {
+      "name" : "Bug Maniac",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Bug_Maniac_(Trainer_class)"
+    },
+    {
+      "name" : "Expert",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Expert_(Trainer_class)"
+    },
+    {
+      "name" : "Hex Maniac",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Hex_Maniac_(Trainer_class)"
+    },
+    {
+      "name" : "Interviewers",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Interviewers_(Trainer_class)"
+    },
+    {
+      "name" : "Kindler",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Kindler_(Trainer_class)"
+    },
+    {
+      "name" : "Magma Admin",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Magma_Admin_(Trainer_class)"
+    },
+    {
+      "name" : "Old Couple",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Old_Couple_(Trainer_class)"
+    },
+    {
+      "name" : "Poké Fan",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Fan_(Trainer_class)"
+    },
+    {
+      "name" : "Pokémon Ranger",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ranger_(Trainer_class)"
+    },
+    {
+      "name" : "Pokémon Breeder",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Breeder_(Trainer_class)"
+    },
+    {
+      "name" : "Schoolkid",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Schoolkid_(Trainer_class)"
+    },
+    {
+      "name" : "Team Aqua Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Aqua_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Team Magma Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Magma_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Teammates",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Teammates_(Trainer_class)"
+    },
+    {
+      "name" : "Triathlete",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Triathlete_(Trainer_class)"
+    },
+    {
+      "name" : "Ace Duo",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Ace_Duo_(Trainer_class)"
+    },
+    {
+      "name" : "Brains & Brawn",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Brains_%26_Brawn_(Trainer_class)"
+    },
+    {
+      "name" : "Backpacker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Backpacker_(Trainer_class)"
+    },
+    {
+      "name" : "Delinquent",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Delinquent_(Trainer_class)"
+    },
+    {
+      "name" : "Fairy Tale Girl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Fairy_Tale_Girl_(Trainer_class)"
+    },
+    {
+      "name" : "Fare Prince",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Fare_Prince_(Trainer_class)"
+    },
+    {
+      "name" : "Free Diver",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Free_Diver_(Trainer_class)"
+    },
+    {
+      "name" : "Mysterious Sisters",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Mysterious_Sisters_(Trainer_class)"
+    },
+    {
+      "name" : "Rotation Girl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Rotation_Girl_(Trainer_class)"
+    },
+    {
+      "name" : "Scuba Diver",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Scuba_Diver_(Trainer_class)"
+    },
+    {
+      "name" : "Secret Base Trainer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Secret_Base_Trainer_(Trainer_class)"
+    },
+    {
+      "name" : "Street Thug",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Street_Thug_(Trainer_class)"
+    },
+    {
+      "name" : "Salon Maiden",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Tower_Tycoon_(Trainer_class)"
+    },
+    {
+      "name" : "Battle Chatelaine",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Battle_Chatelaine_(Trainer_class)"
+    },
+    {
+      "name" : "Butler",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Butler_(Trainer_class)"
+    },
+    {
+      "name" : "Chef",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Chef_(Trainer_class)"
+    },
+    {
+      "name" : "Furisode Girl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Furisode_Girl_(Trainer_class)"
+    },
+    {
+      "name" : "Garçon",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Gar%C3%A7on_(Trainer_class)"
+    },
+    {
+      "name" : "Gardener",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Gardener_(Trainer_class)"
+    },
+    {
+      "name" : "Madame",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Madame_(Trainer_class)"
+    },
+    {
+      "name" : "Maid",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Maid_(Trainer_class)"
+    },
+    {
+      "name" : "Monsieur",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Monsieur_(Trainer_class)"
+    },
+    {
+      "name" : "Owner",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Owner_(Trainer_class)"
+    },
+    {
+      "name" : "Preschooler",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Preschooler_(Trainer_class)"
+    },
+    {
+      "name" : "Punk Girl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Punk_Girl_(Trainer_class)"
+    },
+    {
+      "name" : "Rising Star",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Rising_Star_(Trainer_class)"
+    },
+    {
+      "name" : "Roller Skater",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Roller_Skater_(Trainer_class)"
+    },
+    {
+      "name" : "Schoolboy",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Schoolboy_(Trainer_class)"
+    },
+    {
+      "name" : "Schoolgirl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Schoolgirl_(Trainer_class)"
+    },
+    {
+      "name" : "Tourist",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Tourist_(Trainer_class)"
+    },
+    {
+      "name" : "Belle & Pa",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Belle_%26_Pa_(Trainer_class)"
+    },
+    {
+      "name" : "Commander",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Commander_(Trainer_class)"
+    },
+    {
+      "name" : "Galactic Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Galactic_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Backers",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Backers_(Trainer_class)"
+    },
+    {
+      "name" : "Baker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Baker_(Trainer_class)"
+    },
+    {
+      "name" : "Boss Trainer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Boss_Trainer_(Trainer_class)"
+    },
+    {
+      "name" : "Clerk",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Office_Worker_(Trainer_class)"
+    },
+    {
+      "name" : "Dancer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Dancer_(Trainer_class)"
+    },
+    {
+      "name" : "Depot Agent",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Depot_Agent_(Trainer_class)"
+    },
+    {
+      "name" : "Doctor",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Doctor_(Trainer_class)"
+    },
+    {
+      "name" : "GAME FREAK",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/GAME_FREAK_(Trainer_class)"
+    },
+    {
+      "name" : "Harlequin",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Harlequin_(Trainer_class)"
+    },
+    {
+      "name" : "Hooligans",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Hooligans_(Trainer_class)"
+    },
+    {
+      "name" : "Hoopster",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Hoopster_(Trainer_class)"
+    },
+    {
+      "name" : "Infielder",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Infielder_(Trainer_class)"
+    },
+    {
+      "name" : "Janitor",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Janitor_(Trainer_class)"
+    },
+    {
+      "name" : "Linebacker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Linebacker_(Trainer_class)"
+    },
+    {
+      "name" : "Musician",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Musician_(Trainer_class)"
+    },
+    {
+      "name" : "Nurse",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Nurse_(Trainer_class)"
+    },
+    {
+      "name" : "Nursery Aide",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Nursery_Aide_(Trainer_class)"
+    },
+    {
+      "name" : "Pilot",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pilot_(Trainer_class)"
+    },
+    {
+      "name" : "Smasher",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Smasher_(Trainer_class)"
+    },
+    {
+      "name" : "Striker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Striker_(Trainer_class)"
+    },
+    {
+      "name" : "Subway Boss",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Subway_Boss_(Trainer_class)"
+    },
+    {
+      "name" : "Team Plasma",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Plasma_(Trainer_class)"
+    },
+    {
+      "name" : "Team Plasma Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Plasma_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Junior Representative",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Junior_Representative_(Trainer_class)"
+    },
+    {
+      "name" : "Master Representative",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Master_Representative_(Trainer_class)"
+    },
+    {
+      "name" : "Senior Representative",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Senior_Representative_(Trainer_class)"
+    },
+    {
+      "name" : "World Champion",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/World_Champion_(Trainer_class)"
+    },
+    {
+      "name" : "World Finalist",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/World_Finalist_(Trainer_class)"
+    },
+    {
+      "name" : "World Runner-up",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/World_Runner-up_(Trainer_class)"
+    },
+    {
+      "name" : "Artist Family",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Artist_Family_(Trainer_class)"
+    },
+    {
+      "name" : "Driver",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Driver_(Trainer_class)"
+    },
+    {
+      "name" : "Honeymooners",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Honeymooners_(Trainer_class)"
+    },
+    {
+      "name" : "Lumiose Gang Member",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Lumiose_Gang_Member_(Trainer_class)"
+    },
+    {
+      "name" : "Poké Fan Family",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Fan_Family_(Trainer_class)"
+    },
+    {
+      "name" : "Punk Couple",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Punk_Couple_(Trainer_class)"
+    },
+    {
+      "name" : "Rangers",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Rangers_(Trainer_class)"
+    },
+    {
+      "name" : "Sky Trainer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Sky_Trainer_(Trainer_class)"
+    },
+    {
+      "name" : "Team Flare",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Flare_(Trainer_class)"
+    },
+    {
+      "name" : "Team Flare Admin",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Flare_Admin_(Trainer_class)"
+    },
+    {
+      "name" : "Team Flare Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Flare_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Baron",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Baron_(Trainer_class)"
+    },
+    {
+      "name" : "Viscount",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Viscount_(Trainer_class)"
+    },
+    {
+      "name" : "Earl",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Earl_(Trainer_class)"
+    },
+    {
+      "name" : "Marquis",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Marquis_(Trainer_class)"
+    },
+    {
+      "name" : "Duke",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Duke_(Trainer_class)"
+    },
+    {
+      "name" : "Grand Duke",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Grand_Duke_(Trainer_class)"
+    },
+    {
+      "name" : "Baroness",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Baroness_(Trainer_class)"
+    },
+    {
+      "name" : "Viscountess",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Viscountess_(Trainer_class)"
+    },
+    {
+      "name" : "Countess",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Countess_(Trainer_class)"
+    },
+    {
+      "name" : "Marchioness",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Marchioness_(Trainer_class)"
+    },
+    {
+      "name" : "Duchess",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Duchess_(Trainer_class)"
+    },
+    {
+      "name" : "Grand Duchess",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Grand_Duchess_(Trainer_class)"
+    },
+    {
+      "name" : "Aether Foundation",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Aether_Foundation_(Trainer_class)"
+    },
+    {
+      "name" : "Aether Foundation Employee",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Aether_Foundation_Employee_(Trainer_class)"
+    },
+    {
+      "name" : "Athletic Siblings",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Athletic_Siblings_(Trainer_class)"
+    },
+    {
+      "name" : "Bellhop",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Bellhop_(Trainer_class)"
+    },
+    {
+      "name" : "Cook",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Cook_(Trainer_class)"
+    },
+    {
+      "name" : "Firefighter",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Firefighter_(Trainer_class)"
+    },
+    {
+      "name" : "Golf Buddies",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Golf_Buddies_(Trainer_class)"
+    },
+    {
+      "name" : "Golfer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Golfer_(Trainer_class)"
+    },
+    {
+      "name" : "Karate Family",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Karate_Family_(Trainer_class)"
+    },
+    {
+      "name" : "Office Worker",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Office_Worker_(Trainer_class)"
+    },
+    {
+      "name" : "Police Officer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Police_Officer_(Trainer_class)"
+    },
+    {
+      "name" : "Principal",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Principal_(Trainer_class)"
+    },
+    {
+      "name" : "Punk Pair",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Punk_Pair_(Trainer_class)"
+    },
+    {
+      "name" : "Rising Star Duo",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Rising_Star_Duo_(Trainer_class)"
+    },
+    {
+      "name" : "Sightseer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Sightseer_(Trainer_class)"
+    },
+    {
+      "name" : "Swimmers",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Swimmers_(Trainer_class)"
+    },
+    {
+      "name" : "Swimmer Girls",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Swimmer_Girls_(Trainer_class)"
+    },
+    {
+      "name" : "Team Skull Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Skull_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Trial Guide",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Trial_Guide_(Trainer_class)"
+    },
+    {
+      "name" : "Veteran Duo",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Veteran_Duo_(Trainer_class)"
+    },
+    {
+      "name" : "Youth Athlete",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Youth_Athlete_(Trainer_class)"
+    },
+    {
+      "name" : "Capoeira Couple",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Capoeira_Couple_(Trainer_class)"
+    },
+    {
+      "name" : "Dancing Family",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Dancing_Family_(Trainer_class)"
+    },
+    {
+      "name" : "Kantonian Gym",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Kantonian_Gym_(Trainer_class)"
+    },
+    {
+      "name" : "Master & Apprentice",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Master_%26_Apprentice_(Trainer_class)"
+    },
+    {
+      "name" : "Sparring Partners",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Sparring_Partners_(Trainer_class)"
+    },
+    {
+      "name" : "Surfer",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Surfer_(Trainer_class)"
+    },
+    {
+      "name" : "Team Rainbow Rocket Grunt",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Team_Rainbow_Rocket_Grunt_(Trainer_class)"
+    },
+    {
+      "name" : "Tourist Couple",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Tourist_Couple_(Trainer_class)"
+    },
+    {
+      "name" : "Ultra Forest Kartenvoy",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Ultra_Forest_Kartenvoy_(Trainer_class)"
+    },
+    {
+      "name" : "Ultra Recon Squad",
+      "url" : "https://bulbapedia.bulbagarden.net/wiki/Ultra_Recon_Squad_(Trainer_class)"
+    }
+  ]
+}
